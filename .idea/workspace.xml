@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="956ef3ae-9903-43eb-97ca-4b6362fb8afc" name="Changes" comment="" />
+    <list default="true" id="956ef3ae-9903-43eb-97ca-4b6362fb8afc" name="Changes" comment="alo">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testjavafx/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/example/testjavafx/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testjavafx/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/testjavafx/hello-view.fxml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,10 +30,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/out/production/QuanLyThienTai/Model/nguoiDung.class" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/out/production/QuanLyThienTai/Model/thienTai.class" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Model/nguoiDung.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -32,6 +52,7 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2YoCjQsbgvKyk9SXwqckC5FivOC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,8 +61,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/LoliLover813/Study_material/ki_thuat_phan_mem/CNPM-master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "20",
+    "last_opened_file_path": "C:/Users/LoliLover813/Study_material/ki_thuat_phan_mem/TestJavaFx",
     "onboarding.tips.debug.path": "C:/Users/LoliLover813/Study_material/ki_thuat_phan_mem/QuanLyThienTai/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -51,12 +74,24 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LoliLover813\Study_material\ki_thuat_phan_mem\TestJavaFx\src" />
+      <recent name="C:\Users\LoliLover813\Study_material\ki_thuat_phan_mem\TestJavaFx" />
       <recent name="C:\Users\LoliLover813\Study_material\ki_thuat_phan_mem\QuanLyThienTai\.idea\Libraries" />
       <recent name="C:\Users\LoliLover813\Study_material\ki_thuat_phan_mem\QuanLyThienTai\out\production\QuanLyThienTai\Lib" />
       <recent name="C:\Users\LoliLover813\Study_material\ki_thuat_phan_mem\QuanLyThienTai\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.HelloApplication">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="20" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="main.com.example.testjavafx.HelloApplication" />
+      <module name="TestJavaFx" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\LoliLover813\Downloads\openjfx-21.0.1_windows-x64_bin-sdk\javafx-sdk-21.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="testSignUpAndLogIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SignUpAndLogIn.testSignUpAndLogIn" />
       <module name="QuanLyThienTai" />
@@ -70,6 +105,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.HelloApplication" />
+      <item itemvalue="Application.testSignUpAndLogIn" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.testSignUpAndLogIn" />
@@ -85,7 +124,20 @@
       <option name="presentableId" value="Default" />
       <updated>1701182680010</updated>
     </task>
+    <task id="LOCAL-00001" summary="alo">
+      <option name="closed" value="true" />
+      <created>1703131560986</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703131560987</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="alo" />
+    <option name="LAST_COMMIT_MESSAGE" value="alo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
