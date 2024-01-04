@@ -9,13 +9,13 @@ public class testThienTaiDAO {
     public static void main(String[] agrs) {
         Scanner scanner = new Scanner(System.in);
         thienTai thienTai1 = new thienTai();
-//
-//        System.out.print("ID: ");
-//        String ID = scanner.nextLine();
+//        String pf = null;
 //
 //        System.out.print("LoaiThienTai: ");
 //        String loaiThienTai = scanner.nextLine();
-//
+//        if(Objects.equals(loaiThienTai, "Lu lut")) pf = "LL";
+//        if(Objects.equals(loaiThienTai, "Sat lo")) pf = "SL";
+//        if(Objects.equals(loaiThienTai, "Bao")) pf = "B";
 //        System.out.print("TenRieng: ");
 //        String tenRieng = scanner.nextLine();
 //
@@ -27,12 +27,12 @@ public class testThienTaiDAO {
 //
 //        System.out.print("MucDo: ");
 //        int mucDo = scanner.nextInt();
-//        thienTai thienTai2 = new thienTai(ID, loaiThienTai, tenRieng, khuVuc, thoiGian, mucDo);
+//        thienTai thienTai2 = new thienTai(pf, loaiThienTai, tenRieng, khuVuc, thoiGian, mucDo);
 //        thienTaiDAO.getInstance().insert(thienTai2);
 
         int luaChon;
         do {
-            System.out.print("Ban muon tim kiem theo thong tin nao(0: Theo ten rieng, 1: Theo khu vuc, 2: Theo thoi gian, khac: Thoat chuc nang): ");
+            System.out.print("Ban muon tim kiem theo thong tin nao(0: Theo ten rieng,1: Theo kieu thien tai,2: Theo khu vuc, 3: Theo thoi gian,khac: Thoat chuc nang): ");
             luaChon = scanner.nextInt();
             switch (luaChon) {
                 case 0:
@@ -45,13 +45,21 @@ public class testThienTaiDAO {
                     break;
                 case 1:
                     scanner.nextLine();
+                    System.out.print("Nhap kieu thien tai muon tim(Sat lo, Lu lut, Bao): ");
+                    String ktt = scanner.nextLine();
+                    thienTai1.setLoaiThienTai(ktt);
+                    System.out.println();
+                    thienTaiDAO.getInstance().selectByKieuThienTai(thienTai1, ktt);
+                    break;
+                case 2:
+                    scanner.nextLine();
                     System.out.print("Nhap khu vuc muon tim: ");
                     String kv = scanner.nextLine();
                     thienTai1.setKhuVuc(kv);
                     System.out.println();
                     thienTaiDAO.getInstance().selectByKhuVuc(thienTai1, kv);
                     break;
-                case 2:
+                case 3:
                     scanner.nextLine();
                     System.out.println("Nhap khoang thoi gian muon tim: ");
                     System.out.print("\nTu (Nhap theo dang YYYY-MM-DD): ");

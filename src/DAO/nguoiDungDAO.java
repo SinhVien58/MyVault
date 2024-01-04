@@ -112,4 +112,6 @@ public class nguoiDungDAO extends DAOInterface<nguoiDung> {
     public ArrayList<nguoiDung> selectByCondition(String condition) {
         return null;
     }
+    @Override
+    public nguoiDung selectByKieuThienTai(nguoiDung nguoiDung, String k) { return null;}
 }

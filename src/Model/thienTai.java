@@ -1,7 +1,7 @@
 package Model;
 
 public class thienTai {
-    private String ID;
+    private String Prefix;
     private String LoaiThienTai;
     private String TenRieng;
     private String KhuVuc;
@@ -10,16 +10,16 @@ public class thienTai {
     public thienTai() {
     }
 
-    public thienTai(String id, String loaiThienTai, String tenRieng, String khuVuc, String thoiGian, int mucDo) {
-        ID = id;
+    public thienTai(String prefix,String loaiThienTai, String tenRieng, String khuVuc, String thoiGian, int mucDo) {
+        Prefix = prefix;
         LoaiThienTai = loaiThienTai;
         TenRieng = tenRieng;
         KhuVuc = khuVuc;
         ThoiGian = thoiGian;
         MucDo = mucDo;
     }
-    public String getID(){ return ID; }
-    public void setID(String id){ ID = id; }
+    public String getPrefix(){ return Prefix; }
+    public void setPrefix(String prefix){ Prefix = prefix; }
     public String getLoaiThienTai() {
         return LoaiThienTai;
     }

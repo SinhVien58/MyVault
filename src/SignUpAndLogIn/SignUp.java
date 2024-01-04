@@ -22,7 +22,7 @@ public class SignUp {
         }
 
         //thuc hien lenh sql
-        String insertUserQuery = "INSERT INTO nguoi_dung (HoVaTen,TaiKhoan, MatKhau, DienThoai) VALUES (?, ?, ?, ?)";
+        String insertUserQuery = "INSERT INTO nguoi_dung (HoVaTen,TaiKhoan, MatKhau, SoDienThoai) VALUES (?, ?, ?, ?)";
         try (Connection connection = DriverManager.getConnection(DATABASE_URL, USERNAME, PASSWORD);
              PreparedStatement statement = connection.prepareStatement(insertUserQuery)) {
             statement.setString(1, fullname);

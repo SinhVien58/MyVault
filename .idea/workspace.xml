@@ -5,9 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="956ef3ae-9903-43eb-97ca-4b6362fb8afc" name="Changes" comment="alo">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/example/testjavafx/MatKhauController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/example/testjavafx/testIdCombinedString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/example/testjavafx/them.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/example/testjavafx/themThienTaiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/example/testjavafx/timTheoDiaDiem.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/example/testjavafx/timTheoDiaDiem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/example/testjavafx/timTheoTenRieng.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/example/testjavafx/timTheoThoiGian.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/example/testjavafx/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAO/DAOInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAO/DAOInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAO/nguoiDungDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAO/nguoiDungDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAO/thienTaiDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAO/thienTaiDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/thienTai.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/thienTai.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SignUpAndLogIn/LogIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SignUpAndLogIn/LogIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SignUpAndLogIn/SignUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SignUpAndLogIn/SignUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SignUpAndLogIn/testSignUpAndLogIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SignUpAndLogIn/testSignUpAndLogIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/testThienTaiDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/testThienTaiDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/example/testjavafx/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/example/testjavafx/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/example/testjavafx/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/example/testjavafx/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/example/testjavafx/test1.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/example/testjavafx/test1.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +38,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -46,7 +65,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2YoCjQsbgvKyk9SXwqckC5FivOC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -58,7 +79,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/LoliLover813/Study_material/ki_thuat_phan_mem/TestJavaFx&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/LoliLover813/Study_material/ki_thuat_phan_mem/TestJavaFx/src/main/com/example/testjavafx&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/LoliLover813/Study_material/ki_thuat_phan_mem/QuanLyThienTai/src/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
@@ -68,11 +89,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LoliLover813\Study_material\ki_thuat_phan_mem\TestJavaFx\src\main\com\example\testjavafx" />
       <recent name="C:\Users\LoliLover813\Study_material\ki_thuat_phan_mem\TestJavaFx\src" />
       <recent name="C:\Users\LoliLover813\Study_material\ki_thuat_phan_mem\TestJavaFx" />
       <recent name="C:\Users\LoliLover813\Study_material\ki_thuat_phan_mem\QuanLyThienTai\.idea\Libraries" />
       <recent name="C:\Users\LoliLover813\Study_material\ki_thuat_phan_mem\QuanLyThienTai\out\production\QuanLyThienTai\Lib" />
-      <recent name="C:\Users\LoliLover813\Study_material\ki_thuat_phan_mem\QuanLyThienTai\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LoliLover813\Study_material\ki_thuat_phan_mem\TestJavaFx\src\main\com\example\testjavafx" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="main.com.example.testjavafx" />
@@ -83,6 +107,14 @@
       <option name="ALTERNATIVE_JRE_PATH" value="20" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="main.com.example.testjavafx.HelloApplication" />
+      <module name="TestJavaFx" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\LoliLover813\Downloads\openjfx-21.0.1_windows-x64_bin-sdk\javafx-sdk-21.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.com.example.testjavafx.MatKhauController" />
       <module name="TestJavaFx" />
       <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\LoliLover813\Downloads\openjfx-21.0.1_windows-x64_bin-sdk\javafx-sdk-21.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml" />
       <method v="2">
@@ -104,6 +136,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.HelloApplication" />
+      <item itemvalue="Application.Unnamed" />
       <item itemvalue="Application.testSignUpAndLogIn" />
     </list>
     <recent_temporary>
@@ -137,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703134475323</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="alo">
+      <option name="closed" value="true" />
+      <created>1703135419351</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703135419351</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
