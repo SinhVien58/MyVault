@@ -5,6 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="956ef3ae-9903-43eb-97ca-4b6362fb8afc" name="Changes" comment="alo">
+      <change afterPath="$PROJECT_DIR$/out/production/QuanLyThienTai/DAO/DAOInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/QuanLyThienTai/DAO/nguoiDungDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/QuanLyThienTai/DAO/thienTaiDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/QuanLyThienTai/Database/JDBC_Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/QuanLyThienTai/Lib/mysql-connector-java-8.0.30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/QuanLyThienTai/Lib/protobuf-java-3.19.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/QuanLyThienTai/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/QuanLyThienTai/Model/nguoiDung.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/QuanLyThienTai/Model/thienTai.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/QuanLyThienTai/Test/testThienTaiDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/QuanLyThienTai/Test/testnguoiDungDAO.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/com/example/testjavafx/MatKhauController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/com/example/testjavafx/testIdCombinedString.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/com/example/testjavafx/them.fxml" afterDir="false" />
