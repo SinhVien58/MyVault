@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="932.0" prefWidth="430.0" style="-fx-background-color: linear-gradient(to bottom, rgba(49, 79, 176, 0.6), rgba(145, 43, 72, 0.6));" stylesheets="@../styles/MainPage.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="fxml.MainPage">
+   <children>
+      <ImageView fitHeight="40.0" fitWidth="47.0" layoutX="14.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../image/heroicons-solid_menu-alt-4.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="122.0" layoutY="17.0" style="-fx-text-fill: rgba(54, 59, 100, 1); -fx-font-size: 24px; -fx-font-weight: 700;" text="Hanoi, Viet Nam" />
+      <ImageView fitHeight="40.0" fitWidth="47.0" layoutX="376.0" layoutY="12.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../image/gg_search.png" />
+         </image>
+      </ImageView>
+      <Pane layoutX="37.0" layoutY="87.0" prefHeight="198.0" prefWidth="357.0" styleClass="view">
+         <children>
+            <Label layoutX="29.0" layoutY="25.0" stylesheets="@../styles/MainPage.css" text="Yesterday">
+               <font>
+                  <Font name="Myanmar Text" size="12.0" />
+               </font></Label>
+            <Button layoutX="135.0" layoutY="21.0" mnemonicParsing="false" prefHeight="29.0" prefWidth="82.0" styleClass="today-button" text="Today" />
+            <Label layoutX="276.0" layoutY="25.0" text="Tomorrow" />
+            <VBox layoutX="31.0" layoutY="76.0" prefHeight="87.0" prefWidth="295.0">
+               <children>
+                  <HBox prefHeight="29.0" prefWidth="307.0">
+                     <children>
+                        <Label prefHeight="17.0" prefWidth="36.0" style="-fx-text-fill: #A098AE; -fx-font-weight: 700;" text="2 PM">
+                           <HBox.margin>
+                              <Insets left="20.0" />
+                           </HBox.margin>
+                        </Label>
+                        <Label prefHeight="17.0" prefWidth="36.0" style="-fx-text-fill: #A098AE; -fx-font-weight: 700;" text="3 PM">
+                           <HBox.margin>
+                              <Insets left="20.0" />
+                           </HBox.margin>
+                        </Label>
+                        <Label prefHeight="17.0" prefWidth="36.0" style="-fx-text-fill: #A098AE; -fx-font-weight: 700;" text="4 PM">
+                           <HBox.margin>
+                              <Insets left="20.0" />
+                           </HBox.margin>
+                        </Label>
+                        <Label prefHeight="17.0" prefWidth="34.0" style="-fx-text-fill: #A098AE; -fx-font-weight: 700;" text="5 PM">
+                           <HBox.margin>
+                              <Insets left="20.0" />
+                           </HBox.margin>
+                        </Label>
+                        <Label prefHeight="17.0" prefWidth="36.0" style="-fx-text-fill: #A098AE; -fx-font-weight: 700;" text="6 PM">
+                           <HBox.margin>
+                              <Insets left="20.0" />
+                           </HBox.margin>
+                        </Label>
+                     </children>
+                  </HBox>
+               </children>
+            </VBox>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

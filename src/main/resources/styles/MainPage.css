@@ -1,0 +1,23 @@
+.view{
+    -fx-background-color: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(200, 198, 208) 100%);
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+}
+.label{
+    -fx-text-fill: rgba(54, 59, 100, 1);
+    -fx-font-size: 12px;
+    -fx-font-weight: 400;
+}
+.today-button{
+    -fx-background-color: linear-gradient(to bottom, #3C6FD1 0%, #3C6FD1 0.01%, #7CA8FF 100%);
+    -fx-text-fill: rgba(255, 255, 255, 1);
+    -fx-font-weight: 700;
+    -fx-font-family: 'Poppins-Medium';
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+}
+
+@font-face {
+    font-family: 'Poppins-Medium';
+    src: url('FontsFree-Net-Poppins-Medium.ttf')
+}

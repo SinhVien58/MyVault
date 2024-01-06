@@ -5,38 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="956ef3ae-9903-43eb-97ca-4b6362fb8afc" name="Changes" comment="alo">
-      <change afterPath="$PROJECT_DIR$/out/production/QuanLyThienTai/DAO/DAOInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/QuanLyThienTai/DAO/nguoiDungDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/QuanLyThienTai/DAO/thienTaiDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/QuanLyThienTai/Database/JDBC_Util.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/QuanLyThienTai/Lib/mysql-connector-java-8.0.30.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/QuanLyThienTai/Lib/protobuf-java-3.19.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/QuanLyThienTai/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/QuanLyThienTai/Model/nguoiDung.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/QuanLyThienTai/Model/thienTai.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/QuanLyThienTai/Test/testThienTaiDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/QuanLyThienTai/Test/testnguoiDungDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/example/testjavafx/MatKhauController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/example/testjavafx/testIdCombinedString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/example/testjavafx/them.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/example/testjavafx/themThienTaiController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/example/testjavafx/timTheoDiaDiem.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/example/testjavafx/timTheoDiaDiem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/example/testjavafx/timTheoTenRieng.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/example/testjavafx/timTheoThoiGian.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/gg_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/heroicons-solid_menu-alt-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/heroicons-solid_menu-alt-4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/image 10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/image 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/image 7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/image 8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/image 9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/MainPage.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/RegInfo.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/RegPage.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/RegSign.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/styles/FontsFree-Net-Poppins-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/styles/InputFieldDesign.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/styles/MainPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/styles/RegPage.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAO/DAOInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAO/DAOInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAO/nguoiDungDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAO/nguoiDungDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAO/thienTaiDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAO/thienTaiDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/thienTai.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/thienTai.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SignUpAndLogIn/LogIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SignUpAndLogIn/LogIn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SignUpAndLogIn/SignUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SignUpAndLogIn/SignUp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SignUpAndLogIn/testSignUpAndLogIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SignUpAndLogIn/testSignUpAndLogIn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/testThienTaiDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/testThienTaiDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/example/testjavafx/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/example/testjavafx/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/example/testjavafx/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/example/testjavafx/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/example/testjavafx/test1.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/example/testjavafx/test1.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,12 +36,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="FxmlFile" />
         <option value="Class" />
+        <option value="FxmlFile" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -83,30 +76,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/LoliLover813/Study_material/ki_thuat_phan_mem/TestJavaFx/src/main/com/example/testjavafx&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/LoliLover813/Study_material/ki_thuat_phan_mem/QuanLyThienTai/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HelloApplication.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "the-tuan",
+    "jdk.selected.JAVA_MODULE": "20",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/tan/MyVault/src/image",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/LoliLover813/Study_material/ki_thuat_phan_mem/QuanLyThienTai/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\tan\MyVault\src\image" />
+      <recent name="D:\tan\MyVault\src\main\resources\styles" />
+      <recent name="D:\tan\MyVault\src\main\resources\lib" />
       <recent name="C:\Users\LoliLover813\Study_material\ki_thuat_phan_mem\TestJavaFx\src\main\com\example\testjavafx" />
       <recent name="C:\Users\LoliLover813\Study_material\ki_thuat_phan_mem\TestJavaFx\src" />
-      <recent name="C:\Users\LoliLover813\Study_material\ki_thuat_phan_mem\TestJavaFx" />
-      <recent name="C:\Users\LoliLover813\Study_material\ki_thuat_phan_mem\QuanLyThienTai\.idea\Libraries" />
-      <recent name="C:\Users\LoliLover813\Study_material\ki_thuat_phan_mem\QuanLyThienTai\out\production\QuanLyThienTai\Lib" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\tan\MyVault\src\image" />
+      <recent name="D:\tan\MyVault\src\main\resources\fxml" />
+      <recent name="D:\tan\MyVault\src\main\resources\styles" />
       <recent name="C:\Users\LoliLover813\Study_material\ki_thuat_phan_mem\TestJavaFx\src\main\com\example\testjavafx" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -156,6 +161,13 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-3183f394aec4-7d648f2c" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -164,6 +176,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701182680010</updated>
+      <workItem from="1704382215273" duration="1845000" />
+      <workItem from="1704425488764" duration="558000" />
+      <workItem from="1704426068264" duration="3130000" />
+      <workItem from="1704553192916" duration="1064000" />
     </task>
     <task id="LOCAL-00001" summary="alo">
       <option name="closed" value="true" />
@@ -191,6 +207,20 @@
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="alo" />
