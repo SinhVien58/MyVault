@@ -3,6 +3,11 @@
     -fx-border-radius: 20px;
     -fx-background-radius: 20px;
 }
+.card{
+    -fx-background-color: linear-gradient(to left, rgb(255, 255, 255) 0%, rgb(200, 198, 208) 100%);
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+}
 .label{
     -fx-text-fill: rgba(54, 59, 100, 1);
     -fx-font-size: 12px;
