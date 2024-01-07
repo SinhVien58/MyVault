@@ -1,0 +1,36 @@
+.input{
+    -fx-background-color:  #d9d9d980;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-prompt-text-fill: white;
+    -fx-font-size: 17px;
+    -fx-text-fill: white;
+    -fx-font-weight: 700;
+    -fx-font-family: 'Poppins-Medium'
+}
+.button{
+    -fx-background-color:  #d9d9d980;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-prompt-text-fill: white;
+    -fx-font-size: 17px;
+    -fx-text-fill: white;
+    -fx-font-weight: 700;
+    -fx-font-family: 'Poppins-Medium'
+}
+.button:pressed{
+    -fx-background-color:   #76659c;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-prompt-text-fill: white;
+    -fx-font-size: 17px;
+    -fx-text-fill: white;
+    -fx-font-weight: 700;
+    -fx-font-family: 'Poppins-Medium'
+}
+
+
+@font-face {
+    font-family: 'Poppins-Medium';
+    src: url('FontsFree-Net-Poppins-Medium.ttf')
+}
