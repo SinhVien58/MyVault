@@ -50,7 +50,7 @@
                   <VBox layoutX="24.0" prefHeight="67.0" prefWidth="335.0">
                      <children>
                         <Label prefHeight="31.0" prefWidth="185.0" style="-fx-text-fill: #363B64; -fx-font-size: 15px; -fx-font-weight: 700;" text="Khu vực" />
-                        <MenuButton mnemonicParsing="false" prefHeight="28.0" prefWidth="328.0" style="-fx-background-color: transparent; -fx-border-color: black; -fx-border-width: 0 0 1px 0;" text="MenuButton" />
+                        <MenuButton mnemonicParsing="false" prefHeight="28.0" prefWidth="328.0" style="-fx-background-color: transparent; -fx-border-color: black; -fx-border-width: 0 0 1px 0;" />
                      </children>
                   </VBox>
                </children>
