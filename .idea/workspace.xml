@@ -5,27 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="956ef3ae-9903-43eb-97ca-4b6362fb8afc" name="Changes" comment="alo">
-      <change afterPath="$PROJECT_DIR$/src/image/Rectangle 702.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/Vector.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/dashicons_arrow-left-alt2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/gg_search (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/ic_round-location-on.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/image 25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/image 9 (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/image 9 (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/image/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/FilterResult.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/MoreInfo.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/findArea.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/findDate.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/findName.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/findPage.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/findType.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/AddNew.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/MainPage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/MainPage.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/styles/MainPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/styles/MainPage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/styles/RegPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/styles/RegPage.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +163,9 @@
       <workItem from="1704425488764" duration="558000" />
       <workItem from="1704426068264" duration="3130000" />
       <workItem from="1704553192916" duration="3546000" />
-      <workItem from="1704594948245" duration="3337000" />
+      <workItem from="1704594948245" duration="3567000" />
+      <workItem from="1704617910476" duration="54000" />
+      <workItem from="1705130721073" duration="736000" />
     </task>
     <task id="LOCAL-00001" summary="alo">
       <option name="closed" value="true" />
@@ -216,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704554306496</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="alo">
+      <option name="closed" value="true" />
+      <created>1704598884466</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704598884466</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
